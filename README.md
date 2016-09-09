@@ -1,4 +1,4 @@
-9/8/2016
+9/8/2016 thursday
 # Hello World
 
-Just for practice
+Just for practice, and more practice
