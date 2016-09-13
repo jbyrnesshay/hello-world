@@ -1,11 +1,20 @@
-<h1>Hello World!</h1>
-<p>this is just practice</p>
-<h2>More Practice Ahead</h2>
+<!DOCTYPE html>
+<head>
+  <title>my tester</title
+  <meta charset="utf-8">
+</head>
+<html>
+<body>
+  <h1>Hello World!</h1>
+  <p>this is just practice</p>
+  <h2>More Practice Ahead</h2>
 
-<?php
+  <?php
 
   for ($i = 0; $i < 10; $i++)
   {
     echo "<br>{$i}";
   }
-?>
+  ?>
+</body>
+</html>
