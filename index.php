@@ -2,6 +2,7 @@
 <head>
   <title>my tester</title
   <meta charset="utf-8">
+  <link href="styles.css" rel="stylesheet" type="text/css">
 </head>
 <html>
 <body>
@@ -15,6 +16,7 @@
   {
     echo "<br>{$i}";
   }
+  //adding something
   ?>
 </body>
 </html>
